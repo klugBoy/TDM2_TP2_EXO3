@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EXO__03__</string>
+    <array name="salawat">
+        <item>الفجر</item>
+        <item>الظهر</item>
+        <item>العصر</item>
+        <item>المغرب</item>
+        <item>العشاء</item>
+    </array>
+</resources>
